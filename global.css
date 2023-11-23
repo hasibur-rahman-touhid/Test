@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --title-heading-2: "Bebas Neue";
+  --text-text-1: Poppins;
+  --font-righteous: Righteous;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-21xl: 40px;
+  --text-2-size: 18px;
+  --title-heading-2-size: 48px;
+  --text-text-1-size: 24px;
+  --title-heading-1-size: 120px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #2a2a2a;
+  --color-darkgray: #aaa;
+  --color-goldenrod: #f1c22d;
+  --primary-color: #4c1ffd;
+  --color-black: #000;
+  --colors-purplelight: #af52de;
+  --colors-pinkdark: #ff375f;
+  --text-and-main-magenta: #dc0155;
+  --text-and-main-black: #333;
+  --text-and-main-dark-blue: #183953;
+  --text-and-main-white: #f4f3f8;
+
+  /* Gaps */
+  --gap-base: 16px;
+  --gap-15xl: 34px;
+
+  /* Border radiuses */
+  --br-10xs: 3px;
+
+  /* Effects */
+  --shadow-200: 0px 4px 6px -4px rgba(24, 39, 75, 0.12),
+    0px 8px 8px -4px rgba(24, 39, 75, 0.08);
+}
